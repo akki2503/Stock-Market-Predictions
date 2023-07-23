@@ -22,4 +22,9 @@ Generate Buy and Sell Suggestions for Nifty 50 Stocks
 
 - After running the python script, two outputs are generate
     1. buy_sell.csv - contains buy sell recommendations for list of stocks provided as input
+
+    ![buy_sell.csv](./readme_images/buy_sell.png)
+
+
     2. buy_sell_images - images containing info for only the buy sell calls of the stocks mentioned in csv with support and resistance lines and past 200 days price.
+    ![buy_sell_images](./readme_images/SELL_end_1804.5999755859375.png)
