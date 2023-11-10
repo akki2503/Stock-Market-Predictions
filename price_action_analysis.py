@@ -12,7 +12,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    "--csv_file_path", type=str, help="CSV file containing list of stocks.", default="ind_nifty100list.csv"
+    "--csv_file_path", type=str, help="CSV file containing list of stocks.", default="ind_niftylist.csv"
 )
 args = parser.parse_args()
 
